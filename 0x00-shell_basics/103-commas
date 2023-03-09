@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --indicator-style=file-type --format==comma --group-directories-first --sort=extension
+ls -a --indicator-style=file-type --format=commas --group-directories-first --sort=extension
